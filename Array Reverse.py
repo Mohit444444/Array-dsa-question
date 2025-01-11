@@ -3,7 +3,6 @@
 # Explanation: The first element 1 moves to last position,
 # the second element 4 moves to second-last and so on.
 
-
 # Input: arr[] = {4, 5, 1, 2} 
 # Output: {2, 1, 5, 4}
 # Explanation: The first element 4 moves to last position,
