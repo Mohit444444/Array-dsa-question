@@ -1,3 +1,3 @@
 All array dsa question here
-3sum
+including all que
 # Array-dsa-question
